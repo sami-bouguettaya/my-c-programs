@@ -1,1 +1,1 @@
-# my-c-programs
+# My C Programs
